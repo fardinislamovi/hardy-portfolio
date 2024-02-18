@@ -132,3 +132,28 @@ main {
 #What-i-do-description {
   padding: 30px 150px;
 }
+.resume-item-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume-container {
+  display: flex;
+  gap: 80px;
+}
+.resume-item-institute{
+  margin-bottom: 20px;
+  margin-bottom: 0px;
+}
+.resume-item-institute,
+.resume-item-description {
+  color: #757575;
+}
+.resume-container hr{
+  margin: 20px;
+}
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
+}
